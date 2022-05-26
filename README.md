@@ -1,2 +1,2 @@
-# Projetcs-collection
+# Projects-collection
 Basic experiments to understand web
